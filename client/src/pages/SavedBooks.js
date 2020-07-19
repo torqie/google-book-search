@@ -6,7 +6,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Container from "react-bootstrap/Container";
 
-class Saved extends Component {
+class SavedBooks extends Component {
   state = {
     books: []
   };
@@ -85,4 +85,4 @@ class Saved extends Component {
   }
 }
 
-export default Saved;
+export default SavedBooks;

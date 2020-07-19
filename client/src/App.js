@@ -5,7 +5,7 @@ import "./App.css";
 
 //Pages
 import Search from "./pages/Search";
-import Saved from "./pages/Saved";
+import Saved from "./pages/SavedBooks";
 
 //Components
 import Navigation from "./components/Navigation";
